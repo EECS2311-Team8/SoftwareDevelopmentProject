@@ -15,7 +15,7 @@ public class LoginWindow extends Application {
 	public void start(Stage primaryStage) {
 		this.primaryStage = primaryStage;
 		primaryStage.setTitle("Login Window");
-		
+		//yes
 		showLoginWindowView();
 	}
 
@@ -32,7 +32,7 @@ public class LoginWindow extends Application {
 			e.printStackTrace();
 		}
 	}
-
+	// main method
 	public static void main(String[] args) {
 		launch(args);
 	}
