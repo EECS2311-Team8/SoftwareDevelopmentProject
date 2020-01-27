@@ -8,7 +8,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 public class VennDiagramWindow extends Application{
-
+//	setting main stage
 	private AnchorPane mainLayout;
 	private Stage primaryStage;
 
