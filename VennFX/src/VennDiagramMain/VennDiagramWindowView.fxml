@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+   <children>
+      <Pane layoutX="-24.0" layoutY="-15.0" prefHeight="395.0" prefWidth="499.0">
+         <children>
+            <ProgressBar layoutX="118.0" layoutY="104.0" prefWidth="200.0" progress="0.0" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

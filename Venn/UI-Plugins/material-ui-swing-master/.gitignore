@@ -1,0 +1,11 @@
+*.java~
+*.class
+target/classes/fonts/
+target/classes/imgs/
+target/classes/mdlaf/
+
+.idea/
+
+target/
+
+material-ui-swing.iml
